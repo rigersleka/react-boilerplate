@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "create package.json using npm init. Package.json is a package manager that helps to manage libraries and helps to build the solutions easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigersleka/react-boilerplate.git"
+  },
+  "author": "Rigers Leka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rigersleka/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rigersleka/react-boilerplate#readme"
+}
